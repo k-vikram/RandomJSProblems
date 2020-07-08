@@ -1,5 +1,5 @@
 /*
-    Problem Statement:
+    Problem Statement: (Icertis Prelim Test)
     'recordString' contains the vag scores of a batsman agaonst respective countries. 
     Find the country with against whom his average is maximum. Additionally find the max avg score also.
     Avg is total score against a country/ Total matches against the country.
