@@ -1,6 +1,6 @@
 # RandomJSProblems
 <p align="center">
-<img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/goodluck.png" alt="goodluck" width="150"/>
+<img src="https://github.com/k-vikram/k-vikram/blob/master/Avatars/cheersandbeers.png" alt="cheers&beers" width="150"/>
   </p>
 
 JS Problems Solved from Random Tests, Interviews, Puzzles, Sites, Hackathons etc..
