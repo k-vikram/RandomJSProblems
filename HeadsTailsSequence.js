@@ -30,19 +30,19 @@ const invertCoins = (arr = []) => {
           THTFace = !THTFace;
       }
   
-      let maxFlips = 0;
+      let minFlipsNeeded = 0;
   
       if (totalHTHFlip > totalTHTFlip) {
-          maxFlips = totalTHTFlip;
+          minFlipsNeeded = totalTHTFlip;
       } else if (totalHTHFlip < totalTHTFlip) {
-          maxFlips = totalHTHFlip;
+          minFlipsNeeded = totalHTHFlip;
       } else if (totalHTHFlip === totalTHTFlip) {
           if (totalHTHFlip !== 0) {
-              maxFlips = totalHTHFlip;
+              minFlipsNeeded = totalHTHFlip;
           }
       }
   
-      return maxFlips;
+      return minFlipsNeeded;
 }
 
 // Input type string
