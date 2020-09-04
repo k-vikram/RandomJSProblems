@@ -19,7 +19,6 @@ const PrintStars = (n = 1) => {
   }
   n = parseInt(n,10);
   const arrLen = n + (n - 1);
-  const middleElemtIndex = n - 1;
   let counterOfStars = 1;
   mode = 'inc';
   for (let i = 0; i < arrLen; i++) {
