@@ -7,6 +7,6 @@ This is a collection of random JS Problems I faced in various Tests, Interviews,
 
 Will keep adding JS problems that will be solved randomly or any other snippet that are worth collecting here. Feel free to browse.
 
-> Might be helpful for Interview Preaparation People or JS starters.
+> Might be helpful for Interview Preparation People or JS starters.
 
 **Run Instructions**: Paste the script it into a dummy HTML file(encl.) with a script a tag and open that file with any modern Browser (Chrome, Firefox, Edge, Safari,Brave etc..)
