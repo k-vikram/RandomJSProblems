@@ -52,7 +52,7 @@
 
 /* USED STRATEGY
 
-1. Find the indeices of all the vovels in the word (including(if 'y' qualifies)). Store in an array.
+1. Find the indices of all the vovels in the word (including(if 'y' qualifies)). Store in an array.
 
 2. Put this array (each pot. substring), through the set of rules described above. If found, return substring.
 
