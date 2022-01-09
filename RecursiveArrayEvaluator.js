@@ -1,4 +1,4 @@
-/* Problem Statement (Airmeet \Round 1)- 
+/* Problem Statement (Airmeet Round 1)- 
 Given an array of 'n' elements as below containing numbers, find out upon subtraction of any 2 numbers yeild the 'stdResult'
 output. Print out the unique pairs and length of such pairs.
   Points to Note:
