@@ -1,3 +1,9 @@
+/*
+    Problem Statement: (Cars24 Second Round)
+    Make a memoised function for fetching user Cibil Score.
+    Function should take the userId/emplID as input and make call only when needed otherwise pick up from a cache.
+    Implement using JS.
+*/
 
 // Optimized Cibil Fetch or Memoized Cibil fetch
 const optimizedCibilFetch = () => {
