@@ -1,3 +1,16 @@
+// ---------------------------------------------
+        Cloudwise: Coding Round 1
+// ---------------------------------------------
+
+/*
+ * The PROBLEM STATEMENT
+ * 
+ * Time Limit: 30min
+ * 
+ * We Create a simple stopwactch in react with START, PAUSE, RESET functionality
+
+ * /
+ 
 import "./styles.css";
 import { useEffect, useRef, useState } from "react";
 
